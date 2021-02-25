@@ -9,18 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "Mochi",
-      "dogBreed": "Bichon",
-      "submit": "Submit",
-      "id": 3
-    },
-    {
-      "dogName": "Mochi",
-      "dogBreed": "Bichon",
-      "submit": "Submit",
-      "id": 4
     }
   ],
   "cats": [
